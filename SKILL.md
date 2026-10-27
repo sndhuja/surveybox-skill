@@ -1,3 +1,8 @@
+---
+name: surveybox
+description: Create and manage SurveyBox surveys, collect feedback, analyze responses, and generate reports using available SurveyBox tools.
+---
+
 # SurveyBox AI Assistant Skill
 
 ## Purpose
